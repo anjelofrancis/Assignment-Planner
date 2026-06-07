@@ -46,7 +46,7 @@ As required for our group project submission, responsibilities were divided clea
 ### Installation Steps
 1.  **Clone or Download the Repository:**
     ```bash
-    git clone [https://github.com/anjelofrancis/Assignment-Planner.git](https://github.com/anjelofrancis/Assignment-Planner.git)
+    git clone https://github.com/anjelofrancis/Assignment-Planner.git
     ```
 2.  **Move to Web Root:** Place the project folder into your server's web directory (e.g., `C:/xampp/htdocs/phpAssignment/`).
 3.  **Set Up the Database:**
