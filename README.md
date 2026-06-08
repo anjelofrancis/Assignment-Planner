@@ -52,18 +52,9 @@ As required for our group project submission, responsibilities were divided clea
 3.  **Set Up the Database:**
     * Open your browser and navigate to `http://localhost/phpmyadmin/`.
     * Create a brand new database named `task_manager`.
-    * Go to the **SQL** tab and execute the following query to set up the schema:
-    ```sql
-    CREATE TABLE tasks (
-        id INT AUTO_INCREMENT PRIMARY KEY,
-        title VARCHAR(255) NOT NULL,
-        description TEXT,
-        priority ENUM('Low', 'Medium', 'High') DEFAULT 'Medium',
-        status ENUM('To Do', 'In Progress', 'Done') DEFAULT 'To Do',
-        due_date DATE NOT NULL,
-        created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
-    );
-    ```
+    * Click on your newly created database, go to the Import tab at the top menu.
+    * Click Choose File and select the database .sql file included directly inside this project repository folder.
+    * Scroll to the bottom of the page and click the Import button to automatically build your tables and load initial data.--
 4.  **Launch Server Modules:** Open your XAMPP Control Panel and start **Apache** and **MySQL**.
 5.  **Run the App:** Open your web browser and go to `http://localhost/phpAssignment/`.
 
