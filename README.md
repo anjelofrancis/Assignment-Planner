@@ -23,15 +23,15 @@ A clean, web-based task management system designed to help students organize, tr
 ## Group Members & Contributions
 As required for our group project submission, responsibilities were divided cleanly into three core structural roles:
 
-1.  **Baristone Shikuku — Database & Connection Architect**
+1.  **Baristone Shikuku (SCT212-0211/2024) — Database & Connection Architect**
     * Designed the MySQL schema and configured the local data tables.
     * Wrote the core `mysql.php` utilizing secure PDO parameters.
     * Co-authored backend processing scripts to handle database inputs.
-2.  **Anjelo Francis Oyolla — Frontend & UI Designer**
+2.  **Anjelo Francis Oyolla (SCT212-0183/2024) — Frontend & UI Designer**
     * Created the main dashboard grid structure and Kanban board views.
     * Designed and embedded the responsive Bootstrap "New Assignment" form modal.
     * Handled the custom CSS style rules for priority colour coding and aesthetic visual transforms.
-3.  **Caleb Kipruto — Logic & State Controller**
+3.  **Caleb Kipruto (SCT212-0066/2024( — Logic & State Controller**
     * Wrote the dynamic array classification loops to correctly group tasks by status column.
     * Developed the state-management logic in `newstatus.php` for moving and deleting items.
     * Implemented server-side field inputs sanitization (`htmlspecialchars`).
