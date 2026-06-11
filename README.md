@@ -62,4 +62,4 @@ As required for our group project submission, responsibilities were divided clea
 
 ## Video Presentation & Demo
 A detailed video walkthrough demonstrating code implementation, layout structure, and system operation can be viewed here:
-**[YouTube Link nitaeka hapa]**
+**[https://youtu.be/nI81Kb-8zbs?si=iUermNtjYJKoAu8T]**
