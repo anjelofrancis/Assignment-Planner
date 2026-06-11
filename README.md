@@ -31,7 +31,7 @@ As required for our group project submission, responsibilities were divided clea
     * Created the main dashboard grid structure and Kanban board views.
     * Designed and embedded the responsive Bootstrap "New Assignment" form modal.
     * Handled the custom CSS style rules for priority colour coding and aesthetic visual transforms.
-3.  **Caleb Kipruto (SCT212-0066/2024( — Logic & State Controller**
+3.  **Caleb Kipruto (SCT212-0066/2024) — Logic & State Controller**
     * Wrote the dynamic array classification loops to correctly group tasks by status column.
     * Developed the state-management logic in `newstatus.php` for moving and deleting items.
     * Implemented server-side field inputs sanitization (`htmlspecialchars`).
